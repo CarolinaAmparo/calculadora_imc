@@ -67,8 +67,7 @@ while True:
 
 # Formula para calcular IMC
 IMC= peso / est ** 2
-#{str(IMC)}
-#IMC = IMC
+
 #Impresion de datos en pantalla añadiendo el IMC
 print(f" \n \n \t \t \t HOLA {nombre} {apellido_p} {apellido_m} TU IMC ACTUALMENTE ES: {round(IMC, 2)}  ")
 
